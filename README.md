@@ -1,2 +1,8 @@
-# websockets-webhooks
-small POC because i needed to implement this on a real project
+yarn install
+
+open terminal and go to: ".../server"
+
+npm start
+
+open new terminal and go to: .../client
+npm start
